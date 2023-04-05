@@ -1,0 +1,108 @@
+[00:01:44] [Render thread/INFO]: [System] [CHAT] Reloading Music... This will not take long...
+[00:01:45] [Render thread/INFO]: [System] [CHAT] Finished!
+[00:01:47] [Server thread/INFO]: Saving and pausing game...
+[00:01:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[More testing]'/minecraft:overworld
+[00:01:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[More testing]'/minecraft:the_end
+[00:01:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[More testing]'/minecraft:the_nether
+[00:01:50] [Server thread/INFO]: Saving and pausing game...
+[00:01:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[More testing]'/minecraft:overworld
+[00:01:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[More testing]'/minecraft:the_end
+[00:01:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[More testing]'/minecraft:the_nether
+[00:01:51] [Render thread/INFO]: Minimap session finalized.
+[00:01:51] [Render thread/INFO]: Finalizing world map session...
+[00:01:51] [Thread-14/INFO]: World map cleaned normally!
+[00:01:51] [Render thread/INFO]: World map session finalized.
+[00:01:51] [Render thread/INFO]: Starting action 'stop'
+[00:01:52] [Render thread/INFO]: Overall Action 'stop' took 333msecs
+[00:01:52] [Render thread/INFO]: Clearing reload state (playerJoined: true, reloadFired: true, customTagsEventFired: false, vanillaTagsEventFired: true)
+[00:01:52] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[00:01:52] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[00:01:52] [Render thread/INFO]: Stopping JEI
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:minecraft took 1.687 ms
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: trashslot:trashslot ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: trashslot:trashslot took 13.00 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:gui took 6.400 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:debug took 25.00 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:forge_gui ...
+[00:01:52] [Render thread/INFO]: Stopping JEI GUI
+[00:01:52] [JEI GUI Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:forge_gui took 151.0 ms
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: visualworkbench:crafting ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: visualworkbench:crafting took 11.20 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: waystones:jei ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: waystones:jei took 4.600 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: uteamcore:jei ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: uteamcore:jei took 7.600 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: waterstrainer:internal ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: waterstrainer:internal took 5.800 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: usefulbackpacks:jei ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: usefulbackpacks:jei took 16.30 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: toolbelt:jei_plugin ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: toolbelt:jei_plugin took 4.700 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: corail_woodcutter:woodcutting ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: corail_woodcutter:woodcutting took 7.900 ?s
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal ...
+[00:01:52] [Render thread/INFO]: Sending Runtime Unavailable: jei:internal took 14.00 ?s
+[00:01:52] [JEI Library Config file watcher/INFO]: FileWatcher was interrupted, stopping.
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from mods.waterstrainer.tileentity.TileEntityStrainer$2 [TileEntityStrainer.java:148]
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/WARN]: Stack size ruleset is somehow null, using fallback logic. Called from null
+[00:01:52] [Server thread/INFO]: Evan_Harrey lost connection: Disconnected
+[00:01:52] [Server thread/INFO]: Evan_Harrey left the game
+[00:01:52] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:01:52] [Config file watcher thread/INFO]: Watcher has shut down
+[00:01:53] [Server thread/INFO]: Stopping server
+[00:01:53] [Server thread/INFO]: Saving players
+[00:01:53] [Server thread/INFO]: Saving worlds
+[00:01:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[More testing]'/minecraft:overworld
+[00:01:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[More testing]'/minecraft:the_end
+[00:01:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[More testing]'/minecraft:the_nether
+[00:01:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (More testing): All chunks are saved
+[00:01:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:01:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:01:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:00] [Server thread/INFO]: Unloading server configs...
+[00:11:19] [Render thread/INFO]: Stopping!
+[00:11:19] [Render thread/INFO]: Starting action 'stop'
+[00:11:19] [Render thread/INFO]: Overall Action 'stop' took 68msecs
+[00:11:19] [Render thread/INFO]: Clearing reload state (playerJoined: false, reloadFired: false, customTagsEventFired: false, vanillaTagsEventFired: false)
