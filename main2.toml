@@ -1,0 +1,46 @@
+# Please refer to the wiki page located at https://github.com/TheComputerizer/Music-Triggers/wiki
+# or the discord server located at https://discord.gg/FZHXFYp8fc
+# for any specific questions you might have regarding the main config file
+
+[triggers]
+	[triggers.biome]
+		identifier = "snowy"
+		biome_category = [ "snowy" "cold" ]
+		resource_name = [ "snowy_taiga" ]
+		priority = "1"
+	[[triggers.time]]
+		identifier = "nighttime"
+		time_bundle = "night"
+	[[triggers.time]]
+		identifier = "daytime"
+		time_bundle = "day"
+	[triggers.generic]
+	[triggers.menu]
+	[triggers.loading]
+	[triggers.universal]
+		fade_out = "10"
+		persistence = "0"
+		trigger_delay = "0"
+		song_delay = "0"
+		start_delay = "0"
+		fade_in = "10"
+[songs]
+	[songs.BiomeIce]
+		triggers = [ "biome-snowy" ]
+	[songs.BiomeCaveIce]
+		triggers = [ "time-nighttime" "biome-snowy" ]
+	[songs.MenuTerrariaEnd]
+		triggers = [ "menu" "loading" ]
+	[songs.MenuCalamity]
+		triggers = [ "loading" "menu" ]
+	[songs.MenuTerrariaCon]
+		triggers = [ "loading" "menu" ]
+	[songs.MenuTerraria]
+		triggers = [ "loading" "menu" ]
+	[songs.MenuTutorial]
+		triggers = [ "generic" ]
+	[songs.TimeDay]
+		triggers = [ "time-daytime" ]
+	[songs.TimeNight]
+		triggers = [ "time-nighttime" ]
+	[songs.universal]
