@@ -1,0 +1,565 @@
+[17:02:40:126] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[17:02:40:165] [Music Triggers/INFO ]: Registered sound engine channel terraria_ost
+[17:02:40:238] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger time with identifier nighttime
+[17:02:40:238] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger time with identifier daytime
+[17:02:40:238] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger generic
+[17:02:40:239] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger menu
+[17:02:40:239] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger loading
+[17:02:40:253] [Music Triggers/INFO ]: Registered sound engine channel example
+[17:02:44:135] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAstralalt.mp3
+[17:02:44:135] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveCrimson.mp3
+[17:02:44:135] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[17:02:44:135] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[17:02:44:137] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[17:02:44:138] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveAlt.mp3
+[17:02:44:141] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveDesert.mp3
+[17:02:44:142] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveHallow.mp3
+[17:02:44:143] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[17:02:44:144] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAether.mp3
+[17:02:44:135] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[17:02:44:147] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[17:02:44:147] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAbyssalt.mp3
+[17:02:44:150] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[17:02:44:151] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCorrupt.mp3
+[17:02:44:152] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeDesert.mp3
+[17:02:44:152] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[17:02:44:152] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAstral.mp3
+[17:02:44:154] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeGraveyard.mp3
+[17:02:44:155] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeBrimstone.mp3
+[17:02:44:155] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveIce.mp3
+[17:02:44:157] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[17:02:44:157] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[17:02:44:158] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCrimson.mp3
+[17:02:44:159] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[17:02:44:159] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeIce.mp3
+[17:02:44:160] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeHallow.mp3
+[17:02:44:161] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeHell.mp3
+[17:02:44:162] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveJungle.mp3
+[17:02:44:163] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[17:02:44:164] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[17:02:44:164] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[17:02:44:164] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[17:02:44:165] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[17:02:44:166] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeJungleNight.mp3
+[17:02:44:166] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[17:02:44:167] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[17:02:44:164] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveCorrupt.mp3
+[17:02:44:168] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeJungle.mp3
+[17:02:44:169] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[17:02:44:169] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSpace.mp3
+[17:02:44:170] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCave.mp3
+[17:02:44:170] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSpacealt.mp3
+[17:02:44:171] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeOcean.mp3
+[17:02:44:172] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[17:02:44:168] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeOceanalt.mp3
+[17:02:44:174] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[17:02:44:174] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSea.mp3
+[17:02:44:176] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[17:02:44:176] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[17:02:44:179] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[17:02:44:180] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossBrimstone.mp3
+[17:02:44:180] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSulphur.mp3
+[17:02:44:181] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[17:02:44:182] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[17:02:44:184] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file Boss1.mp3
+[17:02:44:184] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossGolem.mp3
+[17:02:44:185] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file Boss2.mp3
+[17:02:44:184] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[17:02:44:186] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[17:02:44:187] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[17:02:44:169] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeShroom.mp3
+[17:02:44:188] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[17:02:44:188] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[17:02:44:188] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossMoonlord.mp3
+[17:02:44:190] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossAbyss.mp3
+[17:02:44:190] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[17:02:44:191] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventArmy.mp3
+[17:02:44:192] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventGoblin.mp3
+[17:02:44:193] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[17:02:44:193] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventCredits.mp3
+[17:02:44:193] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventEclipse.mp3
+[17:02:44:194] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[17:02:44:195] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventEerie.mp3
+[17:02:44:195] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossYharon.mp3
+[17:02:44:195] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[17:02:44:197] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[17:02:44:197] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[17:02:44:197] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventLunar.mp3
+[17:02:44:198] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[17:02:44:195] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[17:02:44:199] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[17:02:44:199] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventPumpkin.mp3
+[17:02:44:200] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventRain.mp3
+[17:02:44:200] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventSandstorm.mp3
+[17:02:44:201] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventStorm.mp3
+[17:02:44:201] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[17:02:44:202] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuCalamity.mp3
+[17:02:44:202] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[17:02:44:203] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerrariaCon.mp3
+[17:02:44:204] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[17:02:44:204] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[17:02:44:205] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[17:02:44:205] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[17:02:44:205] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerrariaEnd.mp3
+[17:02:44:205] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[17:02:44:208] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerraria.mp3
+[17:02:44:210] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[17:02:44:209] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[17:02:44:211] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[17:02:44:211] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossDuke.mp3
+[17:02:44:212] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructTown.mp3
+[17:02:44:212] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeDay.mp3
+[17:02:44:212] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructLizhard.mp3
+[17:02:44:213] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructNight.mp3
+[17:02:44:213] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[17:02:44:213] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeDayAlt.mp3
+[17:02:44:213] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[17:02:44:214] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructDungeon.mp3
+[17:02:44:214] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDay.mp3
+[17:02:44:214] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeNight.mp3
+[17:02:44:214] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[17:02:44:216] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[17:02:44:216] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDayAlt.mp3
+[17:02:44:216] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeNight.mp3
+[17:02:44:217] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTutorial.mp3
+[17:02:44:217] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[17:02:44:226] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeVoid.mp3
+[17:02:44:227] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[17:02:44:231] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[17:05:19:779] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:05:19:787] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "MenuTerrariaCon"
+[17:05:19:821] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id MenuTerrariaCon is seekable: true
+[17:22:24:608] [Music Triggers/INFO ]: In-game changes detected for channel files - Reloading audio system
+[17:22:25:682] [Music Triggers/INFO ]: Reloading Music...
+[17:22:26:151] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[17:22:26:191] [Music Triggers/INFO ]: Registered sound engine channel terraria_ost
+[17:22:26:231] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger biome with identifier snowy
+[17:22:26:231] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger time with identifier nighttime
+[17:22:26:231] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger time with identifier daytime
+[17:22:26:231] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger generic
+[17:22:26:232] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger menu
+[17:22:26:232] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger loading
+[17:22:26:246] [Music Triggers/INFO ]: Registered sound engine channel example
+[17:22:26:344] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCave.mp3
+[17:22:26:344] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeBrimstone.mp3
+[17:22:26:344] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[17:22:26:344] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAbyssalt.mp3
+[17:22:26:358] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveJungle.mp3
+[17:22:26:360] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[17:22:26:360] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAether.mp3
+[17:22:26:363] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveIce.mp3
+[17:22:26:363] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[17:22:26:364] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[17:22:26:371] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[17:22:26:371] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeDesert.mp3
+[17:22:26:371] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCorrupt.mp3
+[17:22:26:372] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCrimson.mp3
+[17:22:26:376] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[17:22:26:377] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[17:22:26:378] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeGraveyard.mp3
+[17:22:26:381] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[17:22:26:383] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeHallow.mp3
+[17:22:26:384] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeHell.mp3
+[17:22:26:385] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[17:22:26:386] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[17:22:26:386] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeIce.mp3
+[17:22:26:394] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeJungleNight.mp3
+[17:22:26:393] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeJungle.mp3
+[17:22:26:388] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[17:22:26:398] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[17:22:26:399] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[17:22:26:402] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeOcean.mp3
+[17:22:26:404] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSea.mp3
+[17:22:26:405] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[17:22:26:415] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeShroom.mp3
+[17:22:26:417] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeOceanalt.mp3
+[17:22:26:419] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSpace.mp3
+[17:22:26:422] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSpacealt.mp3
+[17:22:26:422] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[17:22:26:428] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[17:22:26:429] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[17:22:26:430] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[17:22:26:432] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[17:22:26:433] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveCrimson.mp3
+[17:22:26:435] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSulphur.mp3
+[17:22:26:436] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[17:22:26:440] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveCorrupt.mp3
+[17:22:26:440] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossAbyss.mp3
+[17:22:26:443] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAstralalt.mp3
+[17:22:26:444] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file Boss2.mp3
+[17:22:26:447] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file Boss1.mp3
+[17:22:26:448] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossBrimstone.mp3
+[17:22:26:449] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[17:22:26:449] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[17:22:26:450] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossGolem.mp3
+[17:22:26:452] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossDuke.mp3
+[17:22:26:457] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventCredits.mp3
+[17:22:26:458] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossMoonlord.mp3
+[17:22:26:459] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[17:22:26:466] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveAlt.mp3
+[17:22:26:467] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventArmy.mp3
+[17:22:26:467] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveDesert.mp3
+[17:22:26:471] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeVoid.mp3
+[17:22:26:475] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventEerie.mp3
+[17:22:26:478] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventPumpkin.mp3
+[17:22:26:479] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventEclipse.mp3
+[17:22:26:479] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAstral.mp3
+[17:22:26:480] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventRain.mp3
+[17:22:26:481] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventLunar.mp3
+[17:22:26:482] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[17:22:26:483] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventGoblin.mp3
+[17:22:26:483] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[17:22:26:484] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossYharon.mp3
+[17:22:26:486] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerraria.mp3
+[17:22:26:491] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[17:22:26:491] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerrariaEnd.mp3
+[17:22:26:492] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuCalamity.mp3
+[17:22:26:493] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[17:22:26:493] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerrariaCon.mp3
+[17:22:26:493] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventStorm.mp3
+[17:22:26:493] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[17:22:26:495] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructTown.mp3
+[17:22:26:495] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[17:22:26:496] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[17:22:26:496] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructNight.mp3
+[17:22:26:497] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[17:22:26:497] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventSandstorm.mp3
+[17:22:26:498] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[17:22:26:498] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructDungeon.mp3
+[17:22:26:498] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[17:22:26:499] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[17:22:26:499] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTutorial.mp3
+[17:22:26:500] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[17:22:26:500] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeDayAlt.mp3
+[17:22:26:500] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeDay.mp3
+[17:22:26:501] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[17:22:26:502] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[17:22:26:502] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructLizhard.mp3
+[17:22:26:502] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeNight.mp3
+[17:22:26:513] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[17:22:26:515] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveHallow.mp3
+[17:22:26:515] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[17:22:26:517] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[17:22:26:517] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[17:22:26:519] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[17:22:26:519] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[17:22:26:519] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[17:22:26:520] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[17:22:26:520] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[17:22:26:521] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[17:22:26:521] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[17:22:26:522] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDay.mp3
+[17:22:26:522] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[17:22:26:523] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDayAlt.mp3
+[17:22:26:523] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeNight.mp3
+[17:22:26:502] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[17:22:26:559] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[17:22:26:561] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[17:22:26:561] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[17:22:26:562] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[17:22:26:565] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[17:22:26:565] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[17:22:26:567] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[17:22:26:654] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:22:26:670] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "TimeNight"
+[17:22:26:675] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id TimeNight is seekable: true
+[17:23:23:249] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:23:23:451] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeCaveIce"
+[17:23:23:451] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id BiomeCaveIce is seekable: true
+[17:24:21:242] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:24:21:649] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeIce"
+[17:24:21:649] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id BiomeIce is seekable: true
+[17:25:49:312] [Music Triggers/INFO ]: In-game changes detected for channel files - Reloading audio system
+[17:25:49:440] [Music Triggers/INFO ]: Reloading Music...
+[17:25:49:602] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[17:25:49:611] [Music Triggers/INFO ]: Registered sound engine channel terraria_ost
+[17:25:49:670] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger biome with identifier snowy
+[17:25:49:670] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger time with identifier nighttime
+[17:25:49:670] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger time with identifier daytime
+[17:25:49:670] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger generic
+[17:25:49:670] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger menu
+[17:25:49:670] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger loading
+[17:25:49:677] [Music Triggers/INFO ]: Registered sound engine channel example
+[17:25:49:735] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAbyssalt.mp3
+[17:25:49:736] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[17:25:49:736] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCave.mp3
+[17:25:49:736] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[17:25:49:735] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveAlt.mp3
+[17:25:49:736] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveCorrupt.mp3
+[17:25:49:736] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveCrimson.mp3
+[17:25:49:741] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAstral.mp3
+[17:25:49:741] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveJungle.mp3
+[17:25:49:741] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[17:25:49:742] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[17:25:49:742] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveIce.mp3
+[17:25:49:742] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[17:25:49:745] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[17:25:49:745] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[17:25:49:744] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAstralalt.mp3
+[17:25:49:745] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[17:25:49:744] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAether.mp3
+[17:25:49:744] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeBrimstone.mp3
+[17:25:49:744] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveDesert.mp3
+[17:25:49:743] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveHallow.mp3
+[17:25:49:743] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[17:25:49:747] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeDesert.mp3
+[17:25:49:747] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[17:25:49:749] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[17:25:49:749] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[17:25:49:749] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCrimson.mp3
+[17:25:49:750] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeHallow.mp3
+[17:25:49:751] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[17:25:49:753] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeJungle.mp3
+[17:25:49:754] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeShroom.mp3
+[17:25:49:754] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[17:25:49:755] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeOcean.mp3
+[17:25:49:757] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSulphur.mp3
+[17:25:49:757] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[17:25:49:758] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[17:25:49:759] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSpacealt.mp3
+[17:25:49:759] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[17:25:49:761] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeIce.mp3
+[17:25:49:761] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeJungleNight.mp3
+[17:25:49:763] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeOceanalt.mp3
+[17:25:49:763] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[17:25:49:764] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeVoid.mp3
+[17:25:49:764] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[17:25:49:764] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[17:25:49:765] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file Boss2.mp3
+[17:25:49:766] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[17:25:49:766] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[17:25:49:769] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossGolem.mp3
+[17:25:49:767] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSpace.mp3
+[17:25:49:769] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossDuke.mp3
+[17:25:49:766] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeGraveyard.mp3
+[17:25:49:770] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossAbyss.mp3
+[17:25:49:770] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[17:25:49:771] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[17:25:49:772] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[17:25:49:773] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[17:25:49:774] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[17:25:49:774] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[17:25:49:774] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[17:25:49:774] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventArmy.mp3
+[17:25:49:774] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[17:25:49:775] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossBrimstone.mp3
+[17:25:49:775] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[17:25:49:776] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[17:25:49:777] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[17:25:49:777] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[17:25:49:777] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventEerie.mp3
+[17:25:49:778] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[17:25:49:779] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[17:25:49:779] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[17:25:49:780] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[17:25:49:780] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventLunar.mp3
+[17:25:49:780] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSea.mp3
+[17:25:49:782] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventPumpkin.mp3
+[17:25:49:783] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[17:25:49:783] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[17:25:49:783] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventCredits.mp3
+[17:25:49:783] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file Boss1.mp3
+[17:25:49:785] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventEclipse.mp3
+[17:25:49:786] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[17:25:49:786] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[17:25:49:786] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[17:25:49:786] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeHell.mp3
+[17:25:49:787] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventGoblin.mp3
+[17:25:49:788] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossMoonlord.mp3
+[17:25:49:788] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[17:25:49:788] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[17:25:49:789] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCorrupt.mp3
+[17:25:49:789] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[17:25:49:790] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[17:25:49:792] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[17:25:49:792] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventRain.mp3
+[17:25:49:793] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossYharon.mp3
+[17:25:49:795] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[17:25:49:795] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTutorial.mp3
+[17:25:49:798] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDay.mp3
+[17:25:49:807] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeNight.mp3
+[17:25:49:807] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[17:25:49:807] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructLizhard.mp3
+[17:25:49:809] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeDay.mp3
+[17:25:49:809] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructNight.mp3
+[17:25:49:810] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructTown.mp3
+[17:25:49:811] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeNight.mp3
+[17:25:49:811] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[17:25:49:812] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeDayAlt.mp3
+[17:25:49:813] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[17:25:49:813] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[17:25:49:815] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[17:25:49:815] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDayAlt.mp3
+[17:25:49:815] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerrariaEnd.mp3
+[17:25:49:815] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuCalamity.mp3
+[17:25:49:815] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerrariaCon.mp3
+[17:25:49:815] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[17:25:49:816] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[17:25:49:816] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[17:25:49:817] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerraria.mp3
+[17:25:49:818] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructDungeon.mp3
+[17:25:49:827] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventStorm.mp3
+[17:25:49:840] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventSandstorm.mp3
+[17:25:49:886] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:25:49:886] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "TimeDay"
+[17:25:49:887] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id TimeDay is seekable: true
+[17:25:50:686] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:25:50:887] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeIce"
+[17:25:50:887] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id BiomeIce is seekable: true
+[17:26:12:284] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeIce"
+[17:26:12:323] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id BiomeIce is seekable: true
+[17:26:13:684] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:26:13:884] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "TimeDay"
+[17:26:13:884] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id TimeDay is seekable: true
+[17:26:17:484] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:26:17:691] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeIce"
+[17:26:17:691] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id BiomeIce is seekable: true
+[17:26:42:102] [Music Triggers/INFO ]: No in-game changes were detected - Loading file changes
+[17:26:42:107] [Music Triggers/INFO ]: Reloading Music...
+[17:26:42:298] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[17:26:42:300] [Music Triggers/INFO ]: Registered sound engine channel terraria_ost
+[17:26:42:312] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger biome with identifier snowy
+[17:26:42:312] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger time with identifier nighttime
+[17:26:42:312] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered instance of trigger time with identifier daytime
+[17:26:42:312] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger generic
+[17:26:42:312] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger menu
+[17:26:42:312] [Music Triggers/INFO ]: Channel[terraria_ost] - Registered trigger loading
+[17:26:42:318] [Music Triggers/INFO ]: Registered sound engine channel example
+[17:26:42:555] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:26:42:556] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeIce"
+[17:26:42:556] [Music Triggers/ERROR]: Channel[terraria_ost] - Track with id BiomeIce was null! Attempting to refresh track...
+[17:26:42:732] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeIce"
+[17:26:42:738] [Music Triggers/ERROR]: Channel[terraria_ost] - Track with id BiomeIce was null! Attempting to refresh track...
+[17:26:42:937] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeIce"
+[17:26:42:937] [Music Triggers/ERROR]: Channel[terraria_ost] - Track with id BiomeIce was null! Attempting to refresh track...
+[17:26:43:156] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAstralalt.mp3
+[17:26:43:159] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAstral.mp3
+[17:26:43:159] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeIce"
+[17:26:43:160] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeBrimstone.mp3
+[17:26:43:161] [Music Triggers/ERROR]: Channel[terraria_ost] - Track with id BiomeIce was null! Attempting to refresh track...
+[17:26:43:162] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[17:26:43:164] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[17:26:43:168] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[17:26:43:169] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveCorrupt.mp3
+[17:26:43:172] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[17:26:43:173] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[17:26:43:174] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[17:26:43:175] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveAlt.mp3
+[17:26:43:188] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveIce.mp3
+[17:26:43:191] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[17:26:43:192] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCrimson.mp3
+[17:26:43:196] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeDesert.mp3
+[17:26:43:205] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[17:26:43:208] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveDesert.mp3
+[17:26:43:211] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeHell.mp3
+[17:26:43:213] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeIce.mp3
+[17:26:43:211] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[17:26:43:215] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeJungle.mp3
+[17:26:43:220] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeJungleNight.mp3
+[17:26:43:225] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[17:26:43:225] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[17:26:43:230] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveCrimson.mp3
+[17:26:43:239] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeOceanalt.mp3
+[17:26:43:260] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSea.mp3
+[17:26:43:262] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveJungle.mp3
+[17:26:43:262] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCorrupt.mp3
+[17:26:43:264] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSpace.mp3
+[17:26:43:266] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[17:26:43:266] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[17:26:43:267] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSulphur.mp3
+[17:26:43:268] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[17:26:43:275] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[17:26:43:291] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCave.mp3
+[17:26:43:293] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeGraveyard.mp3
+[17:26:43:295] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file Boss2.mp3
+[17:26:43:295] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[17:26:43:297] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossAbyss.mp3
+[17:26:43:300] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[17:26:43:301] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[17:26:43:302] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[17:26:43:302] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossBrimstone.mp3
+[17:26:43:303] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[17:26:43:304] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[17:26:43:304] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeOcean.mp3
+[17:26:43:308] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[17:26:43:310] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[17:26:43:311] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[17:26:43:311] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[17:26:43:312] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[17:26:43:312] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossGolem.mp3
+[17:26:43:313] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeShroom.mp3
+[17:26:43:313] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[17:26:43:314] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[17:26:43:343] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[17:26:43:346] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "BiomeIce"
+[17:26:43:347] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[17:26:43:347] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[17:26:43:347] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id BiomeIce is seekable: true
+[17:26:43:349] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[17:26:43:351] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[17:26:43:353] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAbyssalt.mp3
+[17:26:43:354] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[17:26:43:355] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventArmy.mp3
+[17:26:43:359] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossYharon.mp3
+[17:26:43:361] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventEclipse.mp3
+[17:26:43:362] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventCredits.mp3
+[17:26:43:366] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[17:26:43:368] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventGoblin.mp3
+[17:26:43:368] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[17:26:43:370] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventLunar.mp3
+[17:26:43:371] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[17:26:43:373] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventPumpkin.mp3
+[17:26:43:375] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[17:26:43:375] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[17:26:43:376] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[17:26:43:377] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossDuke.mp3
+[17:26:43:378] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[17:26:43:380] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[17:26:43:381] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[17:26:43:381] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BossMoonlord.mp3
+[17:26:43:382] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[17:26:43:391] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeSpacealt.mp3
+[17:26:43:393] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuCalamity.mp3
+[17:26:43:395] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventEerie.mp3
+[17:26:43:396] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[17:26:43:396] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeVoid.mp3
+[17:26:43:396] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerrariaEnd.mp3
+[17:26:43:397] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventRain.mp3
+[17:26:43:398] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[17:26:43:400] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeAether.mp3
+[17:26:43:401] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructDungeon.mp3
+[17:26:43:402] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructLizhard.mp3
+[17:26:43:403] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructNight.mp3
+[17:26:43:403] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventStorm.mp3
+[17:26:43:404] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeDay.mp3
+[17:26:43:406] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeNight.mp3
+[17:26:43:408] [Music Triggers/WARN ]: Channel[terraria_ost] - Audio file with id BiomeIce already exists!
+[17:26:43:408] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file TimeDayAlt.mp3
+[17:26:43:410] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerraria.mp3
+[17:26:43:410] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[17:26:43:411] [Music Triggers/WARN ]: Channel[terraria_ost] - Audio file with id BiomeIce already exists!
+[17:26:43:412] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTutorial.mp3
+[17:26:43:413] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[17:26:43:418] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file EventSandstorm.mp3
+[17:26:43:419] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDay.mp3
+[17:26:43:421] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[17:26:43:421] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDayAlt.mp3
+[17:26:43:421] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[17:26:43:422] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeNight.mp3
+[17:26:43:422] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[17:26:43:423] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file Boss1.mp3
+[17:26:43:423] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[17:26:43:425] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file MenuTerrariaCon.mp3
+[17:26:43:425] [Music Triggers/WARN ]: Channel[terraria_ost] - Audio file with id BiomeIce already exists!
+[17:26:43:425] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[17:26:43:426] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeCaveHallow.mp3
+[17:26:43:427] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[17:26:43:432] [Music Triggers/WARN ]: Channel[terraria_ost] - Audio file with id BiomeIce already exists!
+[17:26:43:432] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file StructTown.mp3
+[17:26:43:434] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[17:26:43:434] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[17:26:43:436] [Music Triggers/INFO ]: Channel[terraria_ost] - Track loaded from file BiomeHallow.mp3
+[17:26:43:437] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[17:28:56:926] [Music Triggers/DEBUG]: Channel[terraria_ost] - Finding cards to render
+[17:28:57:127] [Music Triggers/INFO ]: Channel[terraria_ost] - Attempting to play track "MenuTerrariaCon"
+[17:28:57:128] [Music Triggers/INFO ]: Channel[terraria_ost] - Track with id MenuTerrariaCon is seekable: true
