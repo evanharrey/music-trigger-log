@@ -1,0 +1,513 @@
+[23:23:52:802] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[23:23:52:873] [Music Triggers/INFO ]: Registered sound engine channel example
+[23:23:52:924] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier daytime
+[23:23:52:924] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier nightime
+[23:23:52:926] [Music Triggers/WARN ]: Channel[example] - No valid triggers were registered for audio TimeDayalt so it has been skipped!
+[23:23:55:742] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[23:23:55:744] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[23:23:55:745] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[23:23:55:746] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[23:23:55:747] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[23:23:55:742] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[23:23:55:748] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[23:23:55:743] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[23:23:55:749] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[23:23:55:742] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[23:23:55:750] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[23:23:55:750] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[23:23:55:751] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[23:23:55:778] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[23:23:55:782] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[23:23:55:783] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[23:23:55:787] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[23:23:55:788] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[23:23:55:788] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[23:23:55:791] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[23:23:55:791] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[23:23:55:792] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[23:23:55:803] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[23:23:55:818] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[23:23:55:819] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[23:23:55:819] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[23:23:55:829] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[23:23:55:829] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[23:23:55:834] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[23:23:55:835] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[23:23:55:842] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[23:23:55:844] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[23:23:55:858] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[23:23:55:872] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[23:23:55:873] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[23:23:55:874] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[23:23:55:876] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[23:23:55:877] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[23:23:55:878] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[23:23:55:878] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[23:23:55:879] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[23:23:55:883] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[23:23:55:944] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[23:23:55:944] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[23:23:55:886] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[23:23:55:946] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[23:23:55:946] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[23:23:55:947] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[23:23:55:952] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[23:23:55:953] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[23:23:55:955] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDay.mp3
+[23:23:55:955] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[23:23:55:956] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[23:23:55:956] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[23:23:55:956] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[23:23:55:957] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeNight.mp3
+[23:23:55:958] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[23:23:55:961] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDayalt.mp3
+[23:23:56:016] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[23:23:56:030] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[23:32:34:488] [Music Triggers/DEBUG]: Channel[example] - Finding cards to render
+[23:32:34:522] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "TimeDay"
+[23:32:34:582] [Music Triggers/INFO ]: Channel[example] - Track with id TimeDay is seekable: true
+[23:34:24:386] [Music Triggers/INFO ]: No in-game changes were detected - Loading file changes
+[23:34:24:521] [Music Triggers/INFO ]: Reloading Music...
+[23:34:24:601] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[23:34:24:608] [Music Triggers/INFO ]: Registered sound engine channel example
+[23:34:24:621] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier daytime
+[23:34:24:621] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier nightime
+[23:34:24:621] [Music Triggers/WARN ]: Channel[example] - No valid triggers were registered for audio TimeDayalt so it has been skipped!
+[23:34:24:644] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[23:34:24:644] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[23:34:24:646] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[23:34:24:647] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[23:34:24:648] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[23:34:24:651] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[23:34:24:653] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[23:34:24:654] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[23:34:24:654] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[23:34:24:656] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[23:34:24:657] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[23:34:24:661] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[23:34:24:662] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[23:34:24:662] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[23:34:24:664] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[23:34:24:666] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[23:34:24:668] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[23:34:24:668] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[23:34:24:669] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[23:34:24:675] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[23:34:24:677] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[23:34:24:678] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[23:34:24:681] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[23:34:24:681] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[23:34:24:682] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[23:34:24:682] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[23:34:24:682] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[23:34:24:684] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[23:34:24:687] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[23:34:24:688] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[23:34:24:688] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[23:34:24:688] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[23:34:24:690] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[23:34:24:691] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[23:34:24:692] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[23:34:24:695] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[23:34:24:695] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[23:34:24:696] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[23:34:24:698] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[23:34:24:699] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[23:34:24:700] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[23:34:24:701] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[23:34:24:702] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[23:34:24:703] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[23:34:24:704] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[23:34:24:704] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[23:34:24:704] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[23:34:24:704] [Music Triggers/DEBUG]: Channel[example] - Finding cards to render
+[23:34:24:704] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[23:34:24:705] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "TimeNight"
+[23:34:24:705] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[23:34:24:706] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[23:34:24:705] [Music Triggers/ERROR]: Channel[example] - Track with id TimeNight was null! Attempting to refresh track...
+[23:34:24:707] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[23:34:24:709] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[23:34:24:709] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[23:34:24:711] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeNight.mp3
+[23:34:24:711] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[23:34:24:711] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[23:34:24:711] [Music Triggers/WARN ]: Channel[example] - Audio file with id TimeNight already exists!
+[23:34:24:712] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDay.mp3
+[23:34:24:713] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[23:34:24:714] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[23:34:24:714] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDayalt.mp3
+[23:34:24:905] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "TimeNight"
+[23:34:24:906] [Music Triggers/INFO ]: Channel[example] - Track with id TimeNight is seekable: true
+[23:41:50:155] [Music Triggers/INFO ]: No in-game changes were detected - Loading file changes
+[23:41:50:182] [Music Triggers/INFO ]: Reloading Music...
+[23:41:50:434] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[23:41:50:446] [Music Triggers/INFO ]: Registered sound engine channel example
+[23:41:50:472] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier daytime
+[23:41:50:473] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier nightime
+[23:41:50:473] [Music Triggers/WARN ]: Channel[example] - No valid triggers were registered for audio TimeDayalt so it has been skipped!
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[23:41:50:591] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[23:41:50:606] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[23:41:50:620] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[23:41:50:622] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[23:41:50:624] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[23:41:50:625] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[23:41:50:626] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[23:41:50:630] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[23:41:50:632] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[23:41:50:633] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[23:41:50:636] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[23:41:50:638] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[23:41:50:637] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[23:41:50:641] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[23:41:50:647] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[23:41:50:646] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[23:41:50:653] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[23:41:50:654] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[23:41:50:660] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[23:41:50:661] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[23:41:50:663] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[23:41:50:664] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[23:41:50:665] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[23:41:50:665] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[23:41:50:667] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[23:41:50:668] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[23:41:50:672] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[23:41:50:672] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[23:41:50:794] [Music Triggers/DEBUG]: Channel[example] - Finding cards to render
+[23:41:50:796] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[23:41:50:798] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[23:41:50:799] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[23:41:50:799] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "TimeNight"
+[23:41:50:801] [Music Triggers/ERROR]: Channel[example] - Track with id TimeNight was null! Attempting to refresh track...
+[23:41:50:805] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[23:41:50:816] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[23:41:50:817] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[23:41:50:819] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[23:41:50:819] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[23:41:50:819] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[23:41:50:820] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[23:41:50:821] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[23:41:50:822] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[23:41:50:823] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[23:41:50:823] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[23:41:50:831] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[23:41:50:833] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeNight.mp3
+[23:41:50:837] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[23:41:50:843] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDayalt.mp3
+[23:41:50:845] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[23:41:50:846] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[23:41:50:847] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[23:41:50:849] [Music Triggers/WARN ]: Channel[example] - Audio file with id TimeNight already exists!
+[23:41:50:849] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[23:41:50:850] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeDay.mp3
+[23:41:50:905] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "TimeNight"
+[23:41:50:909] [Music Triggers/INFO ]: Channel[example] - Track with id TimeNight is seekable: true
+[23:46:46:200] [Music Triggers/INFO ]: No in-game changes were detected - Loading file changes
+[23:46:46:325] [Music Triggers/INFO ]: Reloading Music...
+[23:46:46:898] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[23:46:46:908] [Music Triggers/INFO ]: Registered sound engine channel example
+[23:46:46:928] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier daytime
+[23:46:46:928] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier nightime
+[23:46:46:928] [Music Triggers/WARN ]: Channel[example] - No valid triggers were registered for audio TimeDayalt so it has been skipped!
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[23:46:46:979] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[23:46:46:987] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[23:46:46:988] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[23:46:46:993] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[23:46:46:994] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[23:46:46:994] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[23:46:46:995] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[23:46:46:996] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[23:46:46:997] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[23:46:46:998] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[23:46:46:999] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[23:46:47:011] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[23:46:47:010] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[23:46:47:007] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[23:46:47:008] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[23:46:47:007] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[23:46:47:001] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[23:46:47:008] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[23:46:47:002] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[23:46:47:009] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[23:46:47:007] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[23:46:47:014] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[23:46:47:017] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[23:46:47:019] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[23:46:47:020] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[23:46:47:021] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[23:46:47:023] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[23:46:47:023] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[23:46:47:024] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[23:46:47:025] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[23:46:47:025] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[23:46:47:026] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[23:46:47:027] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[23:46:47:030] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[23:46:47:032] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[23:46:47:030] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[23:46:47:036] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[23:46:47:043] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[23:46:47:044] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[23:46:47:047] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[23:46:47:047] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[23:46:47:049] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[23:46:47:050] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[23:46:47:050] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[23:46:47:055] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[23:46:47:057] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[23:46:47:058] [Music Triggers/INFO ]: Channel[example] - Track loaded from file TimeNight.mp3
+[23:46:47:060] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[23:46:47:061] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timeday.mp3
+[23:46:47:062] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timedayalt.mp3
+[23:46:47:070] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[23:46:47:155] [Music Triggers/DEBUG]: Channel[example] - Finding cards to render
+[23:46:47:155] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "TimeDay"
+[23:46:47:155] [Music Triggers/ERROR]: Channel[example] - Track with id TimeDay was null! Attempting to refresh track...
+[23:46:47:155] [Music Triggers/ERROR]: Channel[example] - Track with id TimeDay does not seem to exist! All instances using this song will be removed until reloading.
+[23:48:39:793] [Music Triggers/INFO ]: In-game changes detected for channel files - Reloading audio system
+[23:48:39:875] [Music Triggers/INFO ]: Reloading Music...
+[23:48:39:983] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[23:48:39:986] [Music Triggers/INFO ]: Registered sound engine channel example
+[23:48:39:992] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier daytime
+[23:48:39:993] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier nightime
+[23:48:39:993] [Music Triggers/WARN ]: Channel[example] - No valid triggers were registered for audio timedayalt so it has been skipped!
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[23:48:40:018] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[23:48:40:020] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[23:48:40:021] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[23:48:40:021] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[23:48:40:022] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[23:48:40:023] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[23:48:40:024] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[23:48:40:024] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[23:48:40:025] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[23:48:40:026] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[23:48:40:026] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[23:48:40:027] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[23:48:40:031] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[23:48:40:035] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[23:48:40:039] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[23:48:40:042] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[23:48:40:043] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[23:48:40:045] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[23:48:40:045] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[23:48:40:046] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[23:48:40:050] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[23:48:40:051] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[23:48:40:057] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[23:48:40:057] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[23:48:40:057] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[23:48:40:058] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[23:48:40:058] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[23:48:40:059] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[23:48:40:060] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[23:48:40:060] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[23:48:40:060] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[23:48:40:061] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[23:48:40:061] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[23:48:40:061] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[23:48:40:061] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[23:48:40:062] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[23:48:40:062] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[23:48:40:062] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[23:48:40:062] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[23:48:40:063] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[23:48:40:064] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timeday.mp3
+[23:48:40:064] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[23:48:40:064] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timedayalt.mp3
+[23:48:40:064] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[23:48:40:064] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timenight.mp3
+[23:48:40:064] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[23:48:40:065] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[23:48:40:065] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[23:48:40:065] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[23:48:40:066] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[23:48:40:066] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[23:48:40:104] [Music Triggers/DEBUG]: Channel[example] - Finding cards to render
+[23:48:40:105] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "timeday"
+[23:48:40:106] [Music Triggers/INFO ]: Channel[example] - Track with id timeday is seekable: true
+[23:53:51:227] [Music Triggers/INFO ]: Channel[example] - Attempting to reset currently playing track
+[23:53:55:904] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "timeday"
+[23:53:55:907] [Music Triggers/INFO ]: Channel[example] - Track with id timeday is seekable: true
+[23:53:56:705] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "timeday"
+[23:53:56:707] [Music Triggers/INFO ]: Channel[example] - Track with id timeday is seekable: true
+[23:53:56:906] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "timeday"
+[23:53:56:906] [Music Triggers/INFO ]: Channel[example] - Track with id timeday is seekable: true
+[23:53:57:106] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "timeday"
+[23:53:57:106] [Music Triggers/INFO ]: Channel[example] - Track with id timeday is seekable: true
+[23:53:57:305] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "timeday"
+[23:53:57:305] [Music Triggers/INFO ]: Channel[example] - Track with id timeday is seekable: true
+[23:53:57:704] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "timeday"
+[23:53:57:704] [Music Triggers/INFO ]: Channel[example] - Track with id timeday is seekable: true
+[23:55:27:983] [Music Triggers/INFO ]: No in-game changes were detected - Loading file changes
+[23:55:27:993] [Music Triggers/INFO ]: Reloading Music...
+[23:55:28:258] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[23:55:28:262] [Music Triggers/INFO ]: Registered sound engine channel example
+[23:55:28:275] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier daytime
+[23:55:28:275] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier nightime
+[23:55:28:275] [Music Triggers/WARN ]: Channel[example] - No valid triggers were registered for audio timedayalt so it has been skipped!
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[23:55:28:319] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[23:55:28:323] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[23:55:28:324] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[23:55:28:325] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[23:55:28:326] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[23:55:28:327] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[23:55:28:328] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[23:55:28:329] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[23:55:28:330] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[23:55:28:330] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[23:55:28:332] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[23:55:28:333] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[23:55:28:334] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[23:55:28:334] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[23:55:28:335] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[23:55:28:336] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[23:55:28:337] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[23:55:28:337] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[23:55:28:338] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[23:55:28:340] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[23:55:28:341] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[23:55:28:341] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[23:55:28:342] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[23:55:28:342] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[23:55:28:344] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[23:55:28:344] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[23:55:28:345] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[23:55:28:345] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[23:55:28:348] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[23:55:28:350] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[23:55:28:350] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[23:55:28:350] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[23:55:28:351] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[23:55:28:369] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[23:55:28:372] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[23:55:28:373] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[23:55:28:374] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[23:55:28:375] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[23:55:28:375] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[23:55:28:376] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[23:55:28:377] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[23:55:28:377] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[23:55:28:379] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[23:55:28:379] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[23:55:28:381] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[23:55:28:381] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[23:55:28:381] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timeday.mp3
+[23:55:28:382] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timedayalt.mp3
+[23:55:28:384] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timenight.mp3
+[23:55:28:386] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[23:55:28:387] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[23:55:28:456] [Music Triggers/DEBUG]: Channel[example] - Finding cards to render
+[23:55:28:457] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "timeday"
+[23:55:28:462] [Music Triggers/INFO ]: Channel[example] - Track with id timeday is seekable: true
+[00:01:44:760] [Music Triggers/INFO ]: In-game changes detected for channel files - Reloading audio system
+[00:01:44:869] [Music Triggers/INFO ]: Reloading Music...
+[00:01:45:135] [Music Triggers/INFO ]: Registered jukebox channel jukebox
+[00:01:45:142] [Music Triggers/INFO ]: Registered sound engine channel example
+[00:01:45:160] [Music Triggers/INFO ]: Channel[example] - Registered trigger menu
+[00:01:45:160] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier daytime
+[00:01:45:160] [Music Triggers/INFO ]: Channel[example] - Registered instance of trigger time with identifier nightime
+[00:01:45:161] [Music Triggers/WARN ]: Channel[example] - No valid triggers were registered for audio timedayalt so it has been skipped!
+[00:01:45:165] [Music Triggers/ERROR]: Channel[example] - Title card  needs to be assigned to 1 or more triggers to be parsed correctly!
+[00:01:45:209] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAbyssalt.mp3
+[00:01:45:209] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveAlt.mp3
+[00:01:45:209] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstral.mp3
+[00:01:45:210] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAstralalt.mp3
+[00:01:45:210] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveDesert.mp3
+[00:01:45:210] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveHallow.mp3
+[00:01:45:210] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCave.mp3
+[00:01:45:210] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCrimson.mp3
+[00:01:45:210] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveCorrupt.mp3
+[00:01:45:210] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeBrimstone.mp3
+[00:01:45:213] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeAether.mp3
+[00:01:45:214] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveIce.mp3
+[00:01:45:214] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeDesert.mp3
+[00:01:45:215] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCorrupt.mp3
+[00:01:45:219] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungleNight.mp3
+[00:01:45:221] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOcean.mp3
+[00:01:45:220] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeJungle.mp3
+[00:01:45:219] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeGraveyard.mp3
+[00:01:45:222] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCrimson.mp3
+[00:01:45:223] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeOceanalt.mp3
+[00:01:45:224] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHallow.mp3
+[00:01:45:226] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSea.mp3
+[00:01:45:226] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeHell.mp3
+[00:01:45:228] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpacealt.mp3
+[00:01:45:228] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeCaveJungle.mp3
+[00:01:45:231] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossBrimstone.mp3
+[00:01:45:232] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSpace.mp3
+[00:01:45:233] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossAbyss.mp3
+[00:01:45:233] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss2.mp3
+[00:01:45:233] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeVoid.mp3
+[00:01:45:234] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeSulphur.mp3
+[00:01:45:235] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeShroom.mp3
+[00:01:45:237] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BiomeIce.mp3
+[00:01:45:238] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossDuke.mp3
+[00:01:45:239] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossMoonlord.mp3
+[00:01:45:240] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossGolem.mp3
+[00:01:45:240] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventArmy.mp3
+[00:01:45:242] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventLunar.mp3
+[00:01:45:243] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEclipse.mp3
+[00:01:45:244] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventEerie.mp3
+[00:01:45:245] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventCredits.mp3
+[00:01:45:245] [Music Triggers/INFO ]: Channel[example] - Track loaded from file BossYharon.mp3
+[00:01:45:246] [Music Triggers/INFO ]: Channel[example] - Track loaded from file Boss1.mp3
+[00:01:45:246] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventGoblin.mp3
+[00:01:45:248] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventPumpkin.mp3
+[00:01:45:249] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventSandstorm.mp3
+[00:01:45:253] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaEnd.mp3
+[00:01:45:254] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructNight.mp3
+[00:01:45:256] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerraria.mp3
+[00:01:45:257] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTutorial.mp3
+[00:01:45:257] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuTerrariaCon.mp3
+[00:01:45:258] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timeday.mp3
+[00:01:45:258] [Music Triggers/INFO ]: Channel[example] - Track loaded from file MenuCalamity.mp3
+[00:01:45:259] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventRain.mp3
+[00:01:45:260] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructDungeon.mp3
+[00:01:45:260] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructLizhard.mp3
+[00:01:45:261] [Music Triggers/INFO ]: Channel[example] - Track loaded from file EventStorm.mp3
+[00:01:45:263] [Music Triggers/INFO ]: Channel[example] - Track loaded from file StructTown.mp3
+[00:01:45:273] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timedayalt.mp3
+[00:01:45:276] [Music Triggers/INFO ]: Channel[example] - Track loaded from file timenight.mp3
+[00:01:45:407] [Music Triggers/DEBUG]: Channel[example] - Finding cards to render
+[00:01:45:408] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "timeday"
+[00:01:45:410] [Music Triggers/INFO ]: Channel[example] - Track with id timeday is seekable: true
+[00:02:01:406] [Music Triggers/DEBUG]: Channel[example] - Finding cards to render
+[00:02:01:605] [Music Triggers/INFO ]: Channel[example] - Attempting to play track "MenuCalamity"
+[00:02:01:607] [Music Triggers/INFO ]: Channel[example] - Track with id MenuCalamity is seekable: true
